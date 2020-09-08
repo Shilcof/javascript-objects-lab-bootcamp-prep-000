@@ -2,7 +2,7 @@
 
 
 function updateObjectWithKeyAndValue(object, key, value) {
-  var newObject[key] = value;
+  newObject[key] = value;
   return Object.assign = ({},{object},{newObject});
 }
 
